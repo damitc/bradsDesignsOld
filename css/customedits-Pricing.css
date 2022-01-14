@@ -55,10 +55,22 @@ h3 {
 	width: 300px;
 }
 
+.chargeList li {
+	color: #53534F;
+	font-size:12px;
+	list-style: circle;
+	margin-bottom: 1rem;
+}
 
+.productList li {
+	color: #53534F;
+	font-size:12px;
+}
 
-
-
+.addtlProductList li {
+	color: #53534F;
+	font-size:12px;
+}
 
 
 
